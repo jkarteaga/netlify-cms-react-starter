@@ -1,12 +1,11 @@
 ---
 title: Contact us
-subtitle: ''
-featuredImage: '/images/uploads/mark-chang-74-3.jpg'
-address: 404 James St, Burleigh Heads QLD 4220
+featuredImage: /images/uploads/mark-chang-74-3.jpg
+subtitle: contacto
+address: '404 James St, Burleigh Heads QLD 4220'
 phone: 0987 123 456
 email: example@example.com
 ---
-
 # Example contact form
 
 This form is setup to use Netlify's form handling:
@@ -16,3 +15,7 @@ This form is setup to use Netlify's form handling:
 * netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
 
 Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+
+Note: these will only work when deployed on Netlify
+
+Also, they are active and I will receive submissions 😉
