@@ -1,12 +1,9 @@
-siteTitle: Netlify CMS + React Starter
-siteUrl: 'https://netlify-cms-react-starter.netlify.com'
-siteDescription: >-
-  A starter project for creating lightning-fast, offline-first websites with
-  Netlify CMS and React.
+siteTitle: Jon Koldo Arteaga
+siteUrl: 'https://www.jonkoldoarteaga.eus'
+siteDescription: Jon Koldo Arteaga Iribarren
 socialMediaCard:
   image: /images/uploads/card-og.png
-  twitterCreatorAccount: '@Jinksi'
-  twitterSiteAccount: ''
-headerScripts: |-
-  <!-- Add your analytics scripts / verification meta here -->
-enableServiceWorker: false
+  twitterCreatorAccount: '@jkarteaga'
+  twitterSiteAccount: '@jkarteaga'
+headerScripts: <!-- Add your analytics scripts / verification meta here -->
+enableServiceWorker: true
